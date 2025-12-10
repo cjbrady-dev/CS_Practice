@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../TicTacToe/myTicTacToe/myTicTacToe.csproj" />
+  <Project Path="../TicTacToe/TicTacToe.csproj" />
   <Project Path="calculatorApp/calculatorApp.csproj" />
 </Solution>
