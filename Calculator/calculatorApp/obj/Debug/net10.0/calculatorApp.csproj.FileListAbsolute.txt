@@ -1,0 +1,14 @@
+/Users/james.brady/Desktop/C# Practice/calculatorApp/bin/Debug/net10.0/calculatorApp
+/Users/james.brady/Desktop/C# Practice/calculatorApp/bin/Debug/net10.0/calculatorApp.deps.json
+/Users/james.brady/Desktop/C# Practice/calculatorApp/bin/Debug/net10.0/calculatorApp.runtimeconfig.json
+/Users/james.brady/Desktop/C# Practice/calculatorApp/bin/Debug/net10.0/calculatorApp.dll
+/Users/james.brady/Desktop/C# Practice/calculatorApp/bin/Debug/net10.0/calculatorApp.pdb
+/Users/james.brady/Desktop/C# Practice/calculatorApp/obj/Debug/net10.0/calculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/james.brady/Desktop/C# Practice/calculatorApp/obj/Debug/net10.0/calculatorApp.AssemblyInfoInputs.cache
+/Users/james.brady/Desktop/C# Practice/calculatorApp/obj/Debug/net10.0/calculatorApp.AssemblyInfo.cs
+/Users/james.brady/Desktop/C# Practice/calculatorApp/obj/Debug/net10.0/calculatorApp.csproj.CoreCompileInputs.cache
+/Users/james.brady/Desktop/C# Practice/calculatorApp/obj/Debug/net10.0/calculatorApp.dll
+/Users/james.brady/Desktop/C# Practice/calculatorApp/obj/Debug/net10.0/refint/calculatorApp.dll
+/Users/james.brady/Desktop/C# Practice/calculatorApp/obj/Debug/net10.0/calculatorApp.pdb
+/Users/james.brady/Desktop/C# Practice/calculatorApp/obj/Debug/net10.0/calculatorApp.genruntimeconfig.cache
+/Users/james.brady/Desktop/C# Practice/calculatorApp/obj/Debug/net10.0/ref/calculatorApp.dll
