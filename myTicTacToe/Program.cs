@@ -4,18 +4,27 @@ namespace myTicTacToe
 {
     class Program
     {
+        static char[,] playField = {
+            {'1','2','3'},
+            {'4','5','6'},
+            {'7','8','9'}
+        };
+        static int turns = 0;
         static void Main(string[] args)
         {
-          Program game = new Program();
-          int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-          game.StartGame(nums);
-          Console.WriteLine("  1  |  2  |  3  ");
-          Console.WriteLine("-----|-----|-----");
-          Console.WriteLine("  4  |  5  |  6  ");
-          Console.WriteLine("-----|-----|-----");
-          Console.WriteLine("  7  |  8  |  9  ");
+          Program myField = new Program();
 
-
+          Console.Clear();
+          Console.WriteLine("    |     |     ");
+          Console.WriteLine("  {0}  |  {1}  |  {2}  ", playField[0,0], playField[0,1], playField[0, 2]);
+          Console.WriteLine("____|_____|_____");
+          Console.WriteLine("    |     |     ");
+          Console.WriteLine("  {0}  |  {1}  |  {2}  ", playField[0,0], playField[0,1], playField[0,2]);
+          Console.WriteLine("____|_____|_____");
+          Console.WriteLine("    |     |     ");
+          Console.WriteLine("  {0}  |  {1}  |  {2}  ", playField[0,0], playField[0,1], playField[0,2]);
+          Console.WriteLine("    |     |     ");  
+          turns++;
         }
 
         static int StartGame(int[] nums)
